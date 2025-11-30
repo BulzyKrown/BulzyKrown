@@ -21,6 +21,6 @@
 
 ## Projects
 
-| <a href="https://rule34-2021.herokuapp.com" target="_blank">**Rule 34 API**</a> (deprecated) | <a href="https://karu.bulzyland.xyz" target="_blank">**Karu**</a> | <a href="http://c0met.xyz/" target="_blank">**Comet API**</a> |
-|:---: | :---: | :---: |
-| <a href="https://rule34-2021.herokuapp.com" target="_blank"><img align='center' src='https://raw.githubusercontent.com/BulzyKrown/BulzyKrown/main/proyects/r34_api.png' height='100px'></a> | <a href="https://karu.bulzyland.xyz" target="_blank"><img align='center' src='https://raw.githubusercontent.com/BulzyKrown/BulzyKrown/main/proyects/karu.png' height='100px'></a> | <a href="http://api.c0met.xyz/" target="_blank"><img align='center' src='https://raw.githubusercontent.com/BulzyKrown/BulzyKrown/main/proyects/comet.png' height='100px'></a> |
+<a href="https://karu.bulzyland.xyz" target="_blank">**Karu**</a> |
+|:---: |
+<a href="https://karu.bulzyland.xyz" target="_blank"><img align='center' src='https://raw.githubusercontent.com/BulzyKrown/BulzyKrown/main/proyects/karu.png' height='100px'></a>
